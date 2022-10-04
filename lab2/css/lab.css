@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-size: 500;
+  font-family: fantasy;
+  text-align: center;
+}
+
+p {
+  font-family: cursive;
+  text-align: center;
+}
+
+#content {
+  background-color: #8df542;
+  width: 800px;
+  min-height: 300px;
+  padding: 10px;
+  margin: auto;
+  border: solid 5px #4245f5;
+  font-size: 20px;
+}
