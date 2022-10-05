@@ -1,0 +1,13 @@
+
+
+p {
+  color: #33bb99;
+  font-weight: bold;
+}
+
+#idName {
+  background-color: tan;
+  padding: 20px;
+  border: solid 1px;
+  margin: 10px;
+}
