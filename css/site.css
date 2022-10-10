@@ -1,11 +1,19 @@
 
 
-p {
+#bio {
   color: #33bb99;
   font-weight: bold;
 }
 
-#idName {
+#pic {
+  width:200px;
+  height:200px;
+  object-fit:cover;
+  border-radius:50%;
+  float: right;
+}
+
+#labsection {
   background-color: tan;
   padding: 20px;
   border: solid 1px;
