@@ -1,12 +1,13 @@
-// Summary. (use period)
-// Description. (use period)
+// This file takes the pseudocodes from Task 1 and Task 2 and changed all lines into comments.
+// We copy and pasted Task 1 and Task 2 from our document onto this Javascript file and turned each line into JS comments.
 
-// @link   URL
+// @link   URL (should we mess with this?)
 // @file   This files defines the MyClass class.
-// @author AuthorName.
-// @since  x.x.x
+// @author Gloria and Sabrina.
+// @since  10.12.2022
 
 
+//Task 1 pseudocode
 
 // How to have a decent sleeping schedule.
   // Get ready for bed at a certain time.
@@ -23,6 +24,8 @@
       // Turn off all electronics.
   // Keep sleep schedules consistent for optimal productivity and energy.
 
+
+//Task 2 pseudocode
 
 //How to open your FREE and OPEN SOURCE art software (Krita).
 
