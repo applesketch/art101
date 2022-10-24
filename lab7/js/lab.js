@@ -26,5 +26,6 @@ function sortUserName() {
   return nameSorted;
 }
 
+
 // Output
-document.writeln("Your name but correct: ", sortUserName(), "</br>", "</br>");
+document.writeln("Your name but correct: ", sortUserName().toUpperCase(), "</br>", "</br>");
