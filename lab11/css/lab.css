@@ -1,0 +1,39 @@
+div {
+  background-color: #b0f7ef;
+  font-family: "Lucida Handwriting", cursive;
+  border: solid; 2px; white-space: normal;
+  margin: 10px;
+  padding: 10px;
+}
+
+h1, h2, h3 {
+  color: #4e42f5;
+  font-family: Monaco, monospace;
+  font-weight: bold;
+}
+
+p {
+  font-family: monospace;
+  font-size: 100%;
+  text-indent: 20px;
+  margin: auto;
+  color: black;
+  padding: 10px;
+}
+
+.special {
+  background-color: orange;
+}
+
+#buttonColor button {
+  border-radius: 1ex;
+  background-color: #ffbf80;
+  transition: 0.3s;
+  margin-right: 1ex;
+  margin-top: 1ex;
+
+}
+
+.buttonCol {
+  background-color: red;
+}
