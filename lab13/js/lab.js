@@ -32,6 +32,9 @@ function outputToPage(str) {
     newEl = document.createElement("p");
     newEl.innerHTML = str;
     document.getElementById("output").appendChild(newEl);
+    /*// debug test
+    debugger;
+    document.getElementById("output").innerHTML = "test";*/
 }
 
 
@@ -54,5 +57,6 @@ myButton.addEventListener("click", function() {
   //var factor = document.getElementById("num0").value;
   document.getElementById("output").innerHTML = "";
   fizzBuzzBoom(num, factorObj);
+
 
 });

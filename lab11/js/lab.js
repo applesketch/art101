@@ -29,8 +29,11 @@ $('#buttonResEl').click(function(){
 $('#buttonResEl').click(function(){
   $('#output').toggleClass("special");
 });
-
-
+/*
+//debugger test
+debugger;
+document.getElementById("output").innerHTML = "test";
+*/
 //new buttons that change colors
 $('#output').append('<button id ="b1"> PAIN </button>');
 
